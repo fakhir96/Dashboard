@@ -29,3 +29,10 @@ This project is part of the [Intermediate HTML and CSS course](https://www.theod
 
 ## 🗂️ Folder Structure
 
+project-root/
+│
+├── index.html
+├── style.css
+└── images/
+
+---
